@@ -4,7 +4,7 @@ import {Link } from 'react-router-dom';
 const Landing = () => {
     return(
         <div>
-            this is the landing!
+            <h3 style={{textAlign:'center'}}>About us</h3>
         </div>
     )
 } 
