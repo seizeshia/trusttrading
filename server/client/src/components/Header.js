@@ -8,10 +8,10 @@ class Header extends Component {
             <nav>
                 <div className="nav-wrapper color-blue">
                     <ul className="right">
-                        <li>About Us</li>
-                        <li>What We Do</li>
-                        <li>Our Clients</li>
-                        <li>Contact Us</li>
+                        <li><a href="/">About Us</a></li>
+                        <li><a href="/wedo">What We Do</a></li>
+                        <li><a href="/clients">Our Clients</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
                     </ul>
                 </div>
             </nav>
