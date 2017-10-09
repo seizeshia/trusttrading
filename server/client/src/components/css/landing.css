@@ -2,3 +2,10 @@
     color: green;
 }
 
+.image {
+    background-image: url("./../images/computer.jpg")
+}
+
+.topimage{
+    width:100%;
+}

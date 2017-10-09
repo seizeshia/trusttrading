@@ -11,7 +11,7 @@ import Contact from './contact'
 const App = () => {
     return (
         <BrowserRouter>
-        <div className="container">
+        <div>
             <Header />
             <Route exact path ="/" component={About} />
             <Route exact path = "/customers" component={Customer} />

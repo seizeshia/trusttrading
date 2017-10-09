@@ -6,7 +6,7 @@ class Header extends Component {
     render(){
         return(
             <nav>
-                <div className="nav-wrapper color-blue">
+                <div className="nav-wrapper grey darken-1">
                     <ul className="right">
                         <li><a href="/">About Us</a></li>
                         <li><a href="/wedo">What We Do</a></li>
