@@ -7,6 +7,7 @@ import About from './about/about'
 import Customer from './customers/customers'
 import Contact from './contact'
 
+
 const App = () => {
     return (
         <BrowserRouter>
@@ -15,6 +16,7 @@ const App = () => {
             <Route exact path ="/" component={About} />
             <Route exact path = "/customers" component={Customer} />
             <Contact />
+
         </div>
         </BrowserRouter>
     )
