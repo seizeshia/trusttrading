@@ -1,0 +1,13 @@
+.image {
+    width:100%;
+}
+
+.boxy {
+    height:100vh; 
+    border: 1px solid red;
+}
+
+.logos {
+    height: 30%;
+}
+
